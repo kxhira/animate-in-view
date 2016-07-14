@@ -1,0 +1,22 @@
+{
+  "name": "animate-in-view",
+  "homepage": "https://github.com/kxhjp09/WebServerTest",
+  "authors": [
+    "kxhjp <kxhjp@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animate.css": "animate-css#^3.5.2",
+    "jquery": "^3.1.0",
+    "protonet/jquery.inview": "jquery.inview#^1.1.2"
+  }
+}

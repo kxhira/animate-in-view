@@ -5,7 +5,7 @@
     "kxhjp <kxhjp@hotmail.com>"
   ],
   "description": "",
-  "main": "",
+  "main": "animate-in-view.js",
   "license": "MIT",
   "ignore": [
     "**/.*",
@@ -17,6 +17,6 @@
   "dependencies": {
     "animate.css": "animate-css#^3.5.2",
     "jquery": "^3.1.0",
-    "protonet/jquery.inview": "jquery.inview#^1.1.2"
+    "jquery.inview.bindable": "^1.1.3"
   }
 }

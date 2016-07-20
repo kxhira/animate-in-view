@@ -1,0 +1,16 @@
+{
+  "name": "jquery.inview.bindable",
+  "version": "1.1.3",
+  "main": "jquery.inview.js",
+  "description": "jQuery event that is fired as soon as an element appears in the user's viewport.",
+  "homepage": "https://github.com/kxhjp09/jquery.inview",
+  "_release": "1.1.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.1.3",
+    "commit": "b7d7f470e7a2dc6d77568f1218f90a9e18dbae4d"
+  },
+  "_source": "https://github.com/kxhjp09/jquery.inview.git",
+  "_target": "^1.1.3",
+  "_originalSource": "jquery.inview.bindable"
+}
